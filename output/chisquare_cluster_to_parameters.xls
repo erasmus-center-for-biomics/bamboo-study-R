@@ -1,0 +1,8 @@
+statistic	p.value	parameter	method	category	padj
+9.631093544137023	0.0074962518740629685	NA	Pearson's Chi-squared test with simulated p-value   (based on 2000 replicates)	Gender	0.02623688155922039
+14.596706192358367	9.995002498750624e-4	NA	Pearson's Chi-squared test with simulated p-value   (based on 2000 replicates)	Breastfed	0.0069965017491254375
+0.4300395256916997	0.8515742128935532	NA	Pearson's Chi-squared test with simulated p-value   (based on 2000 replicates)	Delivery	0.8515742128935532
+28.889328063241106	0.06346826586706647	NA	Pearson's Chi-squared test with simulated p-value   (based on 2000 replicates)	Bowel frequency	0.14809262035648843
+15.504546836562646	0.19090454772613694	NA	Pearson's Chi-squared test with simulated p-value   (based on 2000 replicates)	Consistency	0.33408295852073966
+16.074490726664642	0.30484757621189407	NA	Pearson's Chi-squared test with simulated p-value   (based on 2000 replicates)	Color	0.4267866066966517
+22.13280632411067	0.48575712143928035	NA	Pearson's Chi-squared test with simulated p-value   (based on 2000 replicates)	Amount	0.5667166416791605
